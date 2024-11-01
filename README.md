@@ -1,5 +1,3 @@
-# dsss_homework_2
-
 # Math Quiz
 
 A simple math quiz game where users answer math problems.
