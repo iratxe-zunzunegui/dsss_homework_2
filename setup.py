@@ -10,12 +10,12 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'math_quiz=math_quiz.math_quiz:math_quiz',  # Adjust the entry point if the function name changes
+            'math_quiz=math_quiz.math_quiz:math_quiz', 
         ],
     },
-    author='Your Name',
-    author_email='your_email@example.com',
+    author='Iratxe',
+    author_email='iratxe.zunzunegui@gmail.com',
     description='A simple math quiz game.',
     license='Apache License 2.0',
-    url='https://github.com/iratxe-zunzunegui/dsss_homework_2',  # Replace with your repo URL
+    url='https://github.com/iratxe-zunzunegui/dsss_homework_2',  
 )
